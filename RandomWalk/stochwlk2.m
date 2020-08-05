@@ -1,5 +1,5 @@
 % Seth Thor
-% Demonstrate the random walk algorithm
+% Demonstrate the random walk algorithm with 1000 simulations
 
 function stochwalk_NG()
 npts = 1000;
