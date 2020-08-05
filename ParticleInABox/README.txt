@@ -1,5 +1,3 @@
-# Molecular-dynamics
-
 Simulate hard spheres in a vacuum and box configuration
 Collision physics and stepping through time all coded from scratch
 
